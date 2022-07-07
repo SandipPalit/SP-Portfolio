@@ -1,7 +1,13 @@
+[`   About Me   `](#-sandip-palit-) &nbsp; &nbsp;
+[`   Projects   `](#github-profile) &nbsp; &nbsp;
+[`   Profiles   `](#github-profile)
+
 <br>
 <h1 align="center"><b> Sandip Palit </b></h1>
 <h3 align="center"> Data Engineer </h3>
 <br>
+
+[Go to Real Cool Heading section](#tech-skills)
 
 ###  _Tech Skills_
 
