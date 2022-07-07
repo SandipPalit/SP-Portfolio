@@ -1,8 +1,7 @@
 <br>
 <h1 align="center"><b> Sandip Palit </b></h1>
+<h3 align="center"> Data Engineer </h3>
 <br>
-
----
 
 ###  _Tech Skills_
 
@@ -21,20 +20,20 @@
 <!--- ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) --->
 <!--- ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) --->
 
----
+<br>
 
 ###  _Certifications_
 
 
 
----
+<br>
 
 ###  _Research Article_
 
 <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis">
 <img src="https://img.shields.io/badge/Real%20Time%20Sentiment%20Analysis-Publisher%3A%20IGI%20Global-orange?style=for-the-badge"></a>
 
----
+<br>
 
 ###  _Python Package_
 
@@ -44,7 +43,7 @@
 <a href="https://pypi.org/project/relocate/" alt="Relocate">
 <img src="https://static.pepy.tech/personalized-badge/relocate?period=total&units=none&left_color=black&right_color=orange&left_text=Downloads"></a>
 
----
+<br>
 
 ###  _Connect with me_
 
@@ -57,7 +56,7 @@
 <a href="mailto:sandippalitt@gmail.com" alt="sandippalitt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
------
+---
 
 <img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
 <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippalit&count_private=true&theme=github&layout=compact"/>
