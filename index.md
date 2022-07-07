@@ -1,9 +1,8 @@
-<h1 align="center">Sandip Palit</h1>
+<h1 align="center"><b> Sandip Palit </b></h1>
 
-<br><br>
+<br>
 
-##  Tech Skills
------
+##  _Tech Skills_
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -22,21 +21,18 @@
 
 <br>
 
-##  Certifications
------
+##  _Certifications_
 
 <br>
 
-##  Research Article
------
+##  _Research Article_
 
 <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis">
 <img src="https://img.shields.io/badge/Real%20Time%20Sentiment%20Analysis-Publisher%3A%20IGI%20Global-orange?style=for-the-badge"></a>
 
 <br>
 
-##  Python Package
------
+##  _Python Package_
 
 <a href="https://pypi.org/project/relocate/" alt="Relocate">
 <img src="https://img.shields.io/badge/Relocate-2.1.0-blue?style=for-the-badge"></a>
@@ -46,18 +42,7 @@
 
 <br>
 
-##  Blogs
------
-
-<a href="https://medium.com/@sandippalit009/how-to-crack-microsoft-certified-data-analyst-associate-da-100-exam-157ab6f289e7" alt="How to Crack Microsoft Certified: Data Analyst Associate (DA-100) Exam?">
-<img src="https://img.shields.io/badge/How%20to%20Crack%20Microsoft%20Certified:%20Data%20Analyst%20Associate%20(DA--100)%20Exam-blue?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://medium.com/analytics-vidhya/build-a-chatbot-using-rasa-78406306aa0c" alt="Build a chatbot using Rasa">
-<img src="https://img.shields.io/badge/Build%20a%20chatbot%20using%20Rasa-orange?style=for-the-badge&logo=medium&logoColor=white"></a>
-
-<br>
-
-##  Connect with me
------
+##  _Connect with me_
 
 <a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
