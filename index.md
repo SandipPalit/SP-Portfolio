@@ -7,7 +7,11 @@
 <h3 align="center"> Data Engineer </h3>
 <br>
 
+<!--- my description -->
+
 ###  _Tech Skills_
+
+<!--- add anchors to certificates -->
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,16 +34,40 @@
 
 <table >
   <tr>
-    <td><img src="./assets/images/1.jpg"></td>
-    <td><img src="./assets/images/2.jpg"></td>
-    <td><img src="./assets/images/3.jpg"></td>
-    <td><img src="./assets/images/4.jpg"></td>
+    <td>
+      <img src="./assets/images/1.jpg">
+      <h6 align="center"><i> Microsoft Certified: Azure Data Engineer Associate </i></h6>
+    </td>
+    <td>
+      <img src="./assets/images/2.jpg">
+      <h6 align="center"><i> Microsoft Certified: Power BI Data Analyst Associate </i></h6>
+    </td>
+    <td>
+      <img src="./assets/images/3.jpg">
+      <h6 align="center"><i> Microsoft Certified: Azure AI Engineer Associate </i></h6>
+    </td>
+    <td>
+      <img src="./assets/images/4.jpg">
+      <h6 align="center"><i> Microsoft Certified: Azure Data Fundamentals </i></h6>
+    </td>
   </tr>
   <tr>
-    <td><img src="./assets/images/5.jpg"></td>
-    <td><img src="./assets/images/6.jpg"></td>
-    <td><img src="./assets/images/7.jpg"></td>
-    <td><img src="./assets/images/8.jpg"></td>
+    <td>
+      <img src="./assets/images/5.jpg">
+      <h6 align="center"><i> Microsoft Certified: Power Platform Fundamentals </i></h6>
+    </td>
+    <td>
+      <img src="./assets/images/6.jpg">
+      <h6 align="center"><i> Microsoft Certified: Azure AI Fundamentals </i></h6>
+    </td>
+    <td>
+      <img src="./assets/images/7.jpg">
+      <h6 align="center"><i> Microsoft Certified: Azure Fundamentals </i></h6>
+    </td>
+    <td>
+      <img src="./assets/images/8.jpg">
+      <h6 align="center"><i> Microsoft Certified: Security, Compliance and Identity Fundamentals </i></h6>
+    </td>
   </tr>
 </table>
 
@@ -48,17 +76,18 @@
 ###  _Research Article_
 
 <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis">
-<img src="https://img.shields.io/badge/Real%20Time%20Sentiment%20Analysis-Publisher%3A%20IGI%20Global-orange?style=for-the-badge"></a>
+  <img src="./assets/images/9.jpg">
+  <h6 align="center"><i> Research article on 'Real Time Sentiment Analysis' published in 'International Journal of Synthetic Emotions'. </i></h6>
+</a>
 
 <br>
 
 ###  _Python Package_
 
 <a href="https://pypi.org/project/relocate/" alt="Relocate">
-<img src="https://img.shields.io/badge/Relocate-2.1.0-blue?style=for-the-badge"></a>
-&nbsp;&nbsp;
-<a href="https://pypi.org/project/relocate/" alt="Relocate">
-<img src="https://static.pepy.tech/personalized-badge/relocate?period=total&units=none&left_color=black&right_color=orange&left_text=Downloads"></a>
+  <img src="./assets/images/10.jpg">
+  <h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders.  Currently it has 5000+ downloads. </i></h6>
+</a>
 
 <br>
 
@@ -88,6 +117,7 @@
 
 
 
+<!---
 
 ---
 ---
@@ -204,3 +234,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+-->
