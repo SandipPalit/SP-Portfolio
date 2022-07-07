@@ -1,8 +1,9 @@
+<br>
 <h1 align="center"><b> Sandip Palit </b></h1>
-
 <br>
 
-##  _Tech Skills_
+###  _Tech Skills_
+---
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -21,18 +22,21 @@
 
 <br>
 
-##  _Certifications_
+###  _Certifications_
+---
 
 <br>
 
-##  _Research Article_
+###  _Research Article_
+---
 
 <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis">
 <img src="https://img.shields.io/badge/Real%20Time%20Sentiment%20Analysis-Publisher%3A%20IGI%20Global-orange?style=for-the-badge"></a>
 
 <br>
 
-##  _Python Package_
+###  _Python Package_
+---
 
 <a href="https://pypi.org/project/relocate/" alt="Relocate">
 <img src="https://img.shields.io/badge/Relocate-2.1.0-blue?style=for-the-badge"></a>
@@ -42,7 +46,8 @@
 
 <br>
 
-##  _Connect with me_
+###  _Connect with me_
+---
 
 <a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
