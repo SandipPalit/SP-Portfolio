@@ -1,6 +1,6 @@
 [< About Me >](#SandipPalit) &nbsp; &nbsp;
-[< My Projects >](#Profiles) &nbsp; &nbsp;
-[< My Dev Profiles >](#Profiles)
+[< Projects >](#DevProfiles) &nbsp; &nbsp;
+[< Dev Profiles >](#DevProfiles)
 
 <br id="SandipPalit">
 <h1 align="center"><b> Sandip Palit </b></h1>
@@ -105,10 +105,12 @@
 <a href="mailto:sandippalitt@gmail.com" alt="sandippalitt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+<br>
+
 ---
 
-<br id="Profiles">
-<h2 align="center"> Profiles </h2>
+<br id="DevProfiles">
+<h2 align="center"> Dev Profiles </h2>
 <br>
 
 ### _Github Profile_
