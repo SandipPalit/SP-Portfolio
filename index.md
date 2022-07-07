@@ -1,13 +1,11 @@
-[`   About Me   `](#-sandip-palit-) &nbsp; &nbsp;
-[`   Projects   `](#github-profile) &nbsp; &nbsp;
-[`   Profiles   `](#github-profile)
+[< About Me >](#-sandip-palit-) &nbsp; &nbsp;
+[< My Projects >](#-profiles-) &nbsp; &nbsp;
+[< My Dev Profiles >](#-profiles-)
 
 <br>
 <h1 align="center"><b> Sandip Palit </b></h1>
 <h3 align="center"> Data Engineer </h3>
 <br>
-
-[Go to Real Cool Heading section](#tech-skills)
 
 ###  _Tech Skills_
 
@@ -64,7 +62,11 @@
 
 ---
 
-## _Github Profile_
+<br>
+<h3 align="center"> Profiles </h3>
+<br>
+
+### _Github Profile_
 
 <img align="left" width="41%" src="https://github-readme-streak-stats.herokuapp.com?user=sandippalit&theme=dark&hide_border=true&background=141321&stroke=08594F&ring=DD2727&fire=DD2727&currStreakLabel=00FEC8&currStreakNum=00FEC8&sideLabels=26C4DC&sideNums=26C4DC&dates=989426"/>
 <img align="center" width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=2077&layout=compact"/>
