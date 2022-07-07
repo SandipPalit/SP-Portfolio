@@ -75,19 +75,15 @@
 
 ###  _Research Article_
 
-<a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis">
-  <img src="./assets/images/9.jpg">
-  <h6 align="center"><i> Research article on 'Real Time Sentiment Analysis' published in 'International Journal of Synthetic Emotions'. </i></h6>
-</a>
+<a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis"><img src="./assets/images/9.jpg"></a>
+<h6 align="center"><i> Research article on 'Real Time Sentiment Analysis' published in 'International Journal of Synthetic Emotions'. </i></h6>
 
 <br>
 
 ###  _Python Package_
 
-<a href="https://pypi.org/project/relocate/" alt="Relocate">
-  <img src="./assets/images/10.jpg">
-  <h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders.  Currently it has 5000+ downloads. </i></h6>
-</a>
+<a href="https://pypi.org/project/relocate/" alt="Relocate"><img src="./assets/images/10.jpg"></a>
+<h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders.  Currently it has 5000+ downloads. </i></h6>
 
 <br>
 
