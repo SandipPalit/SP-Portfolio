@@ -63,7 +63,7 @@
 ---
 
 <br id="Profiles">
-<h3 align="center"> Profiles </h3>
+<h2 align="center"> Profiles </h2>
 <br>
 
 ### _Github Profile_
