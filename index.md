@@ -5,9 +5,16 @@
 <br id="SandipPalit">
 <h1 align="center"><b> Sandip Palit </b></h1>
 <h3 align="center"> Data Engineer </h3>
+<!--- my description -->
+
 <br>
 
-<!--- my description -->
+###  _Journey so far_
+
+<img src="./assets/images/11.jpg">
+<h6 align="center"><i> My Professional Journey over the years. </i></h6>
+
+<br>
 
 ###  _Tech Skills_
 
