@@ -1,8 +1,8 @@
-[< About Me >](#-sandip-palit-) &nbsp; &nbsp;
-[< My Projects >](#-profiles-) &nbsp; &nbsp;
-[< My Dev Profiles >](#-profiles-)
+[< About Me >](#SandipPalit) &nbsp; &nbsp;
+[< My Projects >](#Profiles) &nbsp; &nbsp;
+[< My Dev Profiles >](#Profiles)
 
-<br>
+<br id="SandipPalit">
 <h1 align="center"><b> Sandip Palit </b></h1>
 <h3 align="center"> Data Engineer </h3>
 <br>
@@ -62,7 +62,7 @@
 
 ---
 
-<br>
+<br id="Profiles">
 <h3 align="center"> Profiles </h3>
 <br>
 
