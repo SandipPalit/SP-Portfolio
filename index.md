@@ -28,7 +28,20 @@
 
 ###  _Certifications_
 
-
+<table >
+  <tr>
+    <td><img src="./assets/images/1.jpg"></td>
+    <td><img src="./assets/images/2.jpg"></td>
+    <td><img src="./assets/images/3.jpg"></td>
+    <td><img src="./assets/images/4.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/images/5.jpg"></td>
+    <td><img src="./assets/images/6.jpg"></td>
+    <td><img src="./assets/images/7.jpg"></td>
+    <td><img src="./assets/images/8.jpg"></td>
+  </tr>
+</table>
 
 <br>
 
@@ -170,11 +183,6 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
