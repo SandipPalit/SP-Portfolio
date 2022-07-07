@@ -61,7 +61,7 @@
 <img align="left" width="58%" src="https://github-readme-streak-stats.herokuapp.com?user=sandippalit&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=141321&stroke=08594F&ring=DD2727&fire=DD2727&currStreakLabel=00FEC8&currStreakNum=00FEC8&sideLabels=26C4DC&sideNums=26C4DC&dates=989426"/>
 <img align="center" width="39%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandippalit&theme=2077&layout=compact"/>
 
-<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=2077&layout=compact"/>
+<img align="center" width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=2077&layout=compact"/>
 
 
 
