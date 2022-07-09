@@ -12,7 +12,7 @@
 ###  _Journey so far_
 
 <img src="./assets/images/11.jpg">
-<h6 align="center"><i> My Professional Journey over the years. </i></h6>
+<h6 align="center"><i> My Professional Journey so far. </i></h6>
 
 <br>
 
@@ -115,9 +115,17 @@
 
 ### _Github Profile_
 
-<img align="left" width="41%" src="https://github-readme-streak-stats.herokuapp.com?user=sandippalit&theme=dark&hide_border=true&background=141321&stroke=08594F&ring=DD2727&fire=DD2727&currStreakLabel=00FEC8&currStreakNum=00FEC8&sideLabels=26C4DC&sideNums=26C4DC&dates=989426"/>
-<img align="center" width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=2077&layout=compact"/>
-
+<table >
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sandippalit&theme=dark&hide_border=true&background=141321&stroke=08594F&ring=DD2727&fire=DD2727&currStreakLabel=00FEC8&currStreakNum=00FEC8&sideLabels=26C4DC&sideNums=26C4DC&dates=989426"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=2077&layout=compact"/>
+    </td>
+  </tr>
+</table>
+  
 <br>
 
 ### _Kaggle Profile_
