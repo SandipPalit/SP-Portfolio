@@ -20,15 +20,18 @@
 
 <!--- add anchors to certificates -->
 
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![](https://img.shields.io/badge/pyspark-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
+<table >
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></td>
+    <td><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/pyspark-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></td>
+  </tr>
+</table>
 
 <!--- ![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) --->
 <!--- ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) --->
@@ -82,28 +85,56 @@
 
 ###  _Research Article_
 
-<a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis"><img src="./assets/images/9.jpg"></a>
-<h6 align="center"><i> Research article on 'Real Time Sentiment Analysis' published in 'International Journal of Synthetic Emotions'. </i></h6>
+<table >
+  <tr>
+    <td>
+      <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis"><img src="./assets/images/9.jpg"></a>
+      <h6 align="center"><i> Research article on 'Real Time Sentiment Analysis' published in 'International Journal of Synthetic Emotions'. </i></h6>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ###  _Python Package_
 
-<a href="https://pypi.org/project/relocate/" alt="Relocate"><img src="./assets/images/10.jpg"></a>
-<h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders.  Currently it has 5000+ downloads. </i></h6>
+<table >
+  <tr>
+    <td>
+      <a href="https://pypi.org/project/relocate/" alt="Relocate"><img src="./assets/images/10.jpg"></a>
+      <h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders.  Currently it has 5000+ downloads. </i></h6>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ###  _Connect with me_
 
-<a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://medium.com/@sandippalit009" alt="@sandippalit009">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.kaggle.com/sandippalit009/" alt="Sandip Palit">
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<a href="mailto:sandippalitt@gmail.com" alt="sandippalitt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<table >
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@sandippalit009" alt="@sandippalit009">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/sandippalit009/" alt="Sandip Palit">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:sandippalitt@gmail.com" alt="sandippalitt@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -130,7 +161,13 @@
 
 ### _Kaggle Profile_
 
-<img src="./assets/images/12.jpg">
+<table >
+  <tr>
+    <td>
+      <img src="./assets/images/12.jpg">
+    </td>
+  </tr>
+</table>
 
 <br>
 
