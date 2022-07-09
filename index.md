@@ -111,30 +111,11 @@
 
 ###  _Connect with me_
 
-<table >
-  <tr>
-    <td width=15%>
-      <a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-    </td>
-    <td width=15%>
-      <a href="https://medium.com/@sandippalit009" alt="@sandippalit009">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-      </a>
-    </td>
-    <td width=15%>
-      <a href="https://www.kaggle.com/sandippalit009/" alt="Sandip Palit">
-        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
-      </a>
-    </td>
-    <td width=15%>
-      <a href="mailto:sandippalitt@gmail.com" alt="sandippalitt@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+&nbsp; &nbsp;
+<a href="mailto:sandippalitt@gmail.com" alt="sandippalitt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br>
 
