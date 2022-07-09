@@ -120,6 +120,12 @@
 
 <br>
 
+### _Kaggle Profile_
+
+<img src="./assets/images/12.jpg">
+
+<br>
+
 
 
 <!---
