@@ -126,11 +126,11 @@
       <h3> Temperature Data Scraping </h3>
       <h6>Python, Extract Load Transform, Web Scraping, Database.</h6>
       <br>
-      <h5 font-color="blue">Being a Traveller by heart, I know how weather or temperature plays an important role in our planning.
+      <h5 color="blue">Being a Traveller by heart, I know how weather or temperature plays an important role in our planning.
       So I wanted to discover how the temperature varies over the various months of a year, in the Indian travel destinations.</h5>
       <br>
-      <h5><pre>I extracted the raw data from internet through Web Scraping and loaded the data into a database.
-      Then I transformed the data and visualized it using Matplotlib.</pre></h5>
+      <pre>I extracted the raw data from internet through Web Scraping and loaded the data into a database.
+      Then I transformed the data and visualized it using Matplotlib.</pre>
       <br>
       <h4 align="center">Explore the <a href="https://github.com/SandipPalit/Data-Engineering/tree/main/Temperature%20Data%20Scraping">Codebase</a>.</h4>   
     </td>
