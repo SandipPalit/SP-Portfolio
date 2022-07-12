@@ -126,10 +126,10 @@
       <h3> Temperature Data Scraping </h3>
       <h6>Python, Extract Load Transform, Web Scraping, Database.</h6>
       <br>
-      <h5 style="text-transform: none !important; color: red !important;">Being a Traveller by heart, I know how weather or temperature plays an important role in our planning.
+      <h5 style="color: white !important;">Being a Traveller by heart, I know how weather or temperature plays an important role in our planning.
       So I wanted to discover how the temperature varies over the various months of a year, in the Indian travel destinations.</h5>
       <br>
-      <h5>I extracted the raw data from internet through Web Scraping and loaded the data into a database.
+      <h5 style="color: white !important;">I extracted the raw data from internet through Web Scraping and loaded the data into a database.
       Then I transformed the data and visualized it using Matplotlib.</h5>
       <br>
       <h4 align="center">Explore the <a href="https://github.com/SandipPalit/Data-Engineering/tree/main/Temperature%20Data%20Scraping">Codebase</a>.</h4>   
@@ -140,10 +140,10 @@
       <h3> Movie-Recommender </h3>
       <h6>Python, Natural Language Processing, Cosine Similarity.</h6>
       <br>
-      <h5>How the OTT platforms recommend the web series and do they know my preference? 
+      <h5 style="color: white !important;">How the OTT platforms recommend the web series and do they know my preference? 
       Then I became more curious about Natural Language Processing and developed this Recommendation engine.</h5>
       <br>
-      <h5>After performing pre-processing and selecting only the necessary columns, I used Cosine Similarity to find the similarity score between the movies. 
+      <h5 style="color: white !important;">After performing pre-processing and selecting only the necessary columns, I used Cosine Similarity to find the similarity score between the movies. 
       Then for each movie, I ranked the other movies to get the recommendations.</h5>
       <br>
       <h4 align="center">Experience it <a href="https://movierecommender-sandippalit.herokuapp.com/">Live</a>.</h4>
