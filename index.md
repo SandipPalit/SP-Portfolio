@@ -18,7 +18,7 @@
 
 ###  _Tech Skills_
 
-<table >
+<table width="100%" >
   <tr>
     <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></td>
     <td><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></td>
@@ -35,39 +35,39 @@
 
 ###  _Certifications_
 
-<table >
+<table width="100%" >
   <tr>
-    <td width=25%>
+    <td width="25%">
       <a href="https://www.credly.com/badges/9b5afc72-5264-43a3-a37e-ebd96cbeb006/public_url"><img src="./assets/images/1.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure Data Engineer Associate </i></h6>
     </td>
-    <td width=25%>
+    <td width="25%">
       <a href="https://www.credly.com/badges/1b428b51-f69b-4016-8f6d-4f730b468cab/public_url"><img src="./assets/images/2.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Power BI Data Analyst Associate </i></h6>
     </td>
-    <td width=25%>
+    <td width="25%">
       <a href="https://www.credly.com/badges/62712b49-40e3-4cd2-9772-f6793c78e727/public_url"><img src="./assets/images/3.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure AI Engineer Associate </i></h6>
     </td>
-    <td width=25%>
+    <td width="25%">
       <a href="https://www.credly.com/badges/e1da7d15-6535-4341-a1c0-3186a248a22a"><img src="./assets/images/4.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure Data Fundamentals </i></h6>
     </td>
   </tr>
   <tr>
-    <td width=25%>
+    <td width="25%">
       <a href="https://www.credly.com/badges/43d468d8-95d9-4864-bade-76d89b610af7/public_url"><img src="./assets/images/5.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Power Platform Fundamentals </i></h6>
     </td>
-    <td width=25%>
+    <td width="25%">
       <a href="https://www.credly.com/badges/0624b5b2-99f0-4502-9285-864b2d79b45e"><img src="./assets/images/6.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure AI Fundamentals </i></h6>
-    </td width=25%>
-    <td>
+    </td>
+    <td width="25%">
       <a href="https://www.credly.com/badges/6a1e4c79-7518-4f60-8e72-dd2eff66fbb9/public_url"><img src="./assets/images/7.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure Fundamentals </i></h6>
-    </td width=25%>
-    <td>
+    </td>
+    <td width="25%">
       <a href="https://www.hackerrank.com/certificates/a53a35d6f469"><img src="./assets/images/8.jpg"></a>
       <h6 align="center"><i> HackerRank Certified: SQL (Advanced) </i></h6>
     </td>
@@ -78,7 +78,7 @@
 
 ###  _Research Article_
 
-<table >
+<table width="100%">
   <tr>
     <td>
       <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis"><img src="./assets/images/9.jpg"></a>
@@ -91,7 +91,7 @@
 
 ###  _Python Package_
 
-<table >
+<table width="100%" >
   <tr>
     <td>
       <a href="https://pypi.org/project/relocate/" alt="Relocate"><img src="./assets/images/10.jpg"></a>
@@ -118,31 +118,29 @@
 <h2 align="center"> Projects </h2>
 <br>
 
-<table >
+<table width="100%" >
   <tr>
-    <td width=50%>
+    <td width="50%">
       <a href="https://github.com/SandipPalit/Data-Engineering/tree/main/Temperature%20Data%20Scraping"><img src="./assets/images/13.jpg"></a>
       <h3> Temperature Data Scraping </h3>
-      Being a Traveller by heart, I know how weather or temperature plays an important role in our planning.
-      So I wanted to know how the temperature varies over the months in various travel destinations.
-      <br><br>
-      I extracted the raw data from internet through Web Scraping and loaded the data into a database.
-      Then I transformed the data and visualized it using Matplotlib.
-      <br><br>
-      <code> Python </code> &nbsp; <code> Extract Load Transform </code> &nbsp; <code> Web Scraping </code> &nbsp; <code> Database </code> 
+      <h6>Python, Extract Load Transform, Web Scraping, Database.</h6>
+      <br>
+      <h5>Being a Traveller by heart, I know how weather or temperature plays an important role in our planning.
+      So I wanted to know how the temperature varies over the months in various travel destinations.</h5>
+      <h5>I extracted the raw data from internet through Web Scraping and loaded the data into a database.
+      Then I transformed the data and visualized it using Matplotlib.</h5>
       <br>
       <h4 align="center">Explore the <a href="https://github.com/SandipPalit/Data-Engineering/tree/main/Temperature%20Data%20Scraping">Codebase</a>.</h4>   
     </td>
-    <td width=50%>
+    <td width="50%">
       <a href="https://movierecommender-sandippalit.herokuapp.com/"><img src="./assets/images/14.jpg"></a>
       <h3> Movie-Recommender </h3>
-      How the OTT platforms recommend the web series and do they know my preference? 
-      Then I became more curious about Natural Language Processing and developed this Recommendation engine.
-      <br><br>
-      After performing pre-processing and selecting only the necessary columns, I used Cosine Similarity to find the similarity score between the movies. 
-      Then for each movie, I ranked the other movies to get the recommendations.
-      <br><br>
-      <code> Python </code> &nbsp; <code> Natural Language Processing </code> &nbsp; <code> Cosine Similarity </code>
+      <h6>Python, Natural Language Processing, Cosine Similarity.</h6>
+      <br>
+      <h5>How the OTT platforms recommend the web series and do they know my preference? 
+      Then I became more curious about Natural Language Processing and developed this Recommendation engine.</h5>
+      <h5>After performing pre-processing and selecting only the necessary columns, I used Cosine Similarity to find the similarity score between the movies. 
+      Then for each movie, I ranked the other movies to get the recommendations.</h5>
       <br>
       <h4 align="center">Experience it <a href="https://movierecommender-sandippalit.herokuapp.com/">Live</a>.</h4>
     </td>
@@ -158,7 +156,7 @@
 ### _Github Profile_
 
 <table >
-  <tr width=100%>
+  <tr width="100%">
     <td>
       <a href="https://github.com/SandipPalit" alt="Github Profile">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=sandippalit&theme=dark&hide_border=true&background=141321&stroke=08594F&ring=DD2727&fire=DD2727&currStreakLabel=00FEC8&currStreakNum=00FEC8&sideLabels=26C4DC&sideNums=26C4DC&dates=989426"/>
