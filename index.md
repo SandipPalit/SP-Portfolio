@@ -18,16 +18,16 @@
 
 ###  _Tech Skills_
 
+
 <table width="100%" >
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></td>
-    <td><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/pyspark-3670A0?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></td>
+    <td width="12.5%"><img src="./assets/images/15.jpg"></td>
+    <td width="12.5%"><img src="./assets/images/16.jpg"></td>
+    <td width="12.5%"><img src="./assets/images/17.jpg"></td>
+    <td width="12.5%"><img src="./assets/images/18.jpg"></td>
+    <td width="12.5%"><img src="./assets/images/19.jpg"></td>
+    <td width="12.5%"><img src="./assets/images/20.jpg"></td>
+    <td width="12.5%"><img src="./assets/images/21.jpg"></td>
   </tr>
 </table>
 
