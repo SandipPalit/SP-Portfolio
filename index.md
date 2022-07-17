@@ -19,7 +19,7 @@
 ###  _Tech Skills_
 
 
-<table width="100%" >
+<table>
   <tr>
     <td width="12.5%"><img src="./assets/images/15.jpg"></td>
     <td width="12.5%"><img src="./assets/images/16.jpg"></td>
@@ -35,7 +35,7 @@
 
 ###  _Certifications_
 
-<table width="100%" >
+<table>
   <tr>
     <td width="25%">
       <a href="https://www.credly.com/badges/9b5afc72-5264-43a3-a37e-ebd96cbeb006/public_url"><img src="./assets/images/1.jpg"></a>
