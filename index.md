@@ -80,9 +80,13 @@
 
 <table width="100%">
   <tr>
-    <td>
+    <td width="42%">
       <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis"><img src="./assets/images/9.jpg"></a>
       <h6 align="center"><i> Research article on 'Real Time Sentiment Analysis' published in 'International Journal of Synthetic Emotions'. </i></h6>
+    </td>
+    <td width="57%">
+      <a href="https://www.igi-global.com/article/real-time-sentiment-analysis/252223" alt="Real Time Sentiment Analysis"><img src="./assets/images/22.jpg"></a>
+      <h6 align="center"><i> My research article has been featured in the IGI Global Research Anthology titled 'Research Anthology on Implementing Sentiment Analysis Across Multiple Disciplines'. </i></h6>
     </td>
   </tr>
 </table>
@@ -93,9 +97,13 @@
 
 <table width="100%" >
   <tr>
-    <td>
+    <td width="67%">
       <a href="https://pypi.org/project/relocate/" alt="Relocate"><img src="./assets/images/10.jpg"></a>
-      <h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders.  Currently it has 5000+ downloads. </i></h6>
+      <h6 align="center"><i> Relocate is a Python library which helps us in organizing our files into distinct folders. </i></h6>
+    </td>
+    <td width="32%">
+      <a href="https://pypi.org/project/relocate/" alt="Relocate"><img src="./assets/images/23.jpg"></a>
+      <h6 align="center"><i> Currently it has 5000+ downloads. </i></h6>
     </td>
   </tr>
 </table>
