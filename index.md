@@ -56,16 +56,16 @@
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://www.credly.com/badges/43d468d8-95d9-4864-bade-76d89b610af7/public_url"><img src="./assets/images/5.jpg"></a>
-      <h6 align="center"><i> Microsoft Certified: Power Platform Fundamentals </i></h6>
-    </td>
-    <td width="25%">
       <a href="https://www.credly.com/badges/0624b5b2-99f0-4502-9285-864b2d79b45e"><img src="./assets/images/6.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure AI Fundamentals </i></h6>
     </td>
     <td width="25%">
       <a href="https://www.credly.com/badges/6a1e4c79-7518-4f60-8e72-dd2eff66fbb9/public_url"><img src="./assets/images/7.jpg"></a>
       <h6 align="center"><i> Microsoft Certified: Azure Fundamentals </i></h6>
+    </td>
+    <td width="25%">
+      <a href="https://credentials.databricks.com/dbddce41-d973-4bac-99f6-0b60816de32f"><img src="./assets/images/5.jpg"></a>
+      <h6 align="center"><i> Databricks Lakehouse Fundamentals </i></h6>
     </td>
     <td width="25%">
       <a href="https://www.hackerrank.com/certificates/a53a35d6f469"><img src="./assets/images/8.jpg"></a>
