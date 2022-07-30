@@ -65,7 +65,7 @@
     </td>
     <td width="25%">
       <a href="https://credentials.databricks.com/dbddce41-d973-4bac-99f6-0b60816de32f"><img src="./assets/images/5.jpg"></a>
-      <h6 align="center"><i> Databricks Lakehouse Fundamentals </i></h6>
+      <h6 align="center"><i> Databricks Accredited Lakehouse Fundamentals </i></h6>
     </td>
     <td width="25%">
       <a href="https://www.hackerrank.com/certificates/a53a35d6f469"><img src="./assets/images/8.jpg"></a>
