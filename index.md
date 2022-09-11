@@ -103,11 +103,11 @@
     </td>
     <td width="44%">
       <a href="https://drive.google.com/file/d/1QSLjoslCOhJp-uisly8dQo1yyV_ax8ie/view?usp=sharing"><img src="./assets/images/25.jpg"></a>
-      <h6 align="center"><i> Session on 'Movie Recommender System using NLP' at Google Cloud Community Day 2022. </i></h6>
+      <h6 align="center"><i> Session on 'Movie Recommender System using NLP' at Google Cloud Community Day 2022 - Kolkata. </i></h6>
     </td>
     <td width="37%">
       <img src="./assets/images/26.jpg">
-      <h6 align="center"><i> Panel Discussion on 'Impact of Community on Personal Growth' at Google Cloud Community Day 2022. </i></h6>
+      <h6 align="center"><i> Panel Discussion on 'Impact of Community on Personal Growth' at GCCD22Kol. </i></h6>
     </td>
   </tr>
 </table>
